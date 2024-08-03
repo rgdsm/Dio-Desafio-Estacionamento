@@ -1,0 +1,14 @@
+D:\Bootcamp\DesafioEstacionamento\EstacionamentoProjeto\obj\Debug\net8.0\EstacionamentoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp\DesafioEstacionamento\EstacionamentoProjeto\obj\Debug\net8.0\EstacionamentoProjeto.AssemblyInfoInputs.cache
+D:\Bootcamp\DesafioEstacionamento\EstacionamentoProjeto\obj\Debug\net8.0\EstacionamentoProjeto.AssemblyInfo.cs
+D:\Bootcamp\DesafioEstacionamento\EstacionamentoProjeto\obj\Debug\net8.0\EstacionamentoProjeto.csproj.CoreCompileInputs.cache
+D:\Bootcamp\DesafioEstacionamento\EstacionamentoProjeto\bin\Debug\net8.0\EstacionamentoProjeto.exe
+D:\Bootcamp\DesafioEstacionamento\EstacionamentoProjeto\bin\Debug\net8.0\EstacionamentoProjeto.deps.json
+D:\Bootcamp\DesafioEstacionamento\EstacionamentoProjeto\bin\Debug\net8.0\EstacionamentoProjeto.runtimeconfig.json
+D:\Bootcamp\DesafioEstacionamento\EstacionamentoProjeto\bin\Debug\net8.0\EstacionamentoProjeto.dll
+D:\Bootcamp\DesafioEstacionamento\EstacionamentoProjeto\bin\Debug\net8.0\EstacionamentoProjeto.pdb
+D:\Bootcamp\DesafioEstacionamento\EstacionamentoProjeto\obj\Debug\net8.0\EstacionamentoProjeto.dll
+D:\Bootcamp\DesafioEstacionamento\EstacionamentoProjeto\obj\Debug\net8.0\refint\EstacionamentoProjeto.dll
+D:\Bootcamp\DesafioEstacionamento\EstacionamentoProjeto\obj\Debug\net8.0\EstacionamentoProjeto.pdb
+D:\Bootcamp\DesafioEstacionamento\EstacionamentoProjeto\obj\Debug\net8.0\EstacionamentoProjeto.genruntimeconfig.cache
+D:\Bootcamp\DesafioEstacionamento\EstacionamentoProjeto\obj\Debug\net8.0\ref\EstacionamentoProjeto.dll
